@@ -54,32 +54,6 @@ This project is a full-featured NFT (Non-Fungible Token) marketplace that enable
 - Yarn or NPM
 - MetaMask wallet
 
-### Installation
-
-1. Clone the repository:
-\`\`\`bash
-git clone [repository-url]
-cd nextjs-nft-marketplace-thegraph-fcc
-\`\`\`
-
-2. Install dependencies:
-\`\`\`bash
-yarn install
-# or
-npm install
-\`\`\`
-
-3. Set up environment variables:
-\`\`\`bash
-cp .env.example .env.local
-\`\`\`
-
-4. Start the development server:
-\`\`\`bash
-yarn dev
-# or
-npm run dev
-\`\`\`
 
 ## Architecture
 
